@@ -73,6 +73,9 @@ cd directory-name
 npm install
 npm run dev
 ```
+## Login Credentail 
+email - intern@demo.com
+password - intern123
 ## Made by Abhishek Chauhan
 
 
