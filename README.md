@@ -31,6 +31,9 @@ src/
 │ ├── TaskForm.jsx
 │ ├── TaskCard.jsx
 │ └── Column.jsx
+| └── ActivityLog.jsx
+| └── Navbar.jsx
+| └── ProtectedRoute.jsx
 │
 ├── context/
 │ └── AuthContext.jsx
